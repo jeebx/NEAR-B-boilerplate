@@ -8,7 +8,7 @@ export default function App({ Component, pageProps }) {
     <>
         <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Protonauts About</title>
+        <title>New Web3 App</title>
         </Head>
         <Layout>
             <Component {...pageProps} />
