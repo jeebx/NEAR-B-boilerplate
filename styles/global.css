@@ -1,0 +1,44 @@
+/* Main Website Styling */ 
+
+* {
+  font-family: 'Courier New', monospace;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+body {
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+}
+
+.navbar {
+  padding: 10px;
+}
+#navbarXL {
+  align-items: center;
+}
+.navbar-brand {
+  min-width: 300px;
+  min-height: 60px;
+  margin: 0px;
+}
+.nav-item {
+  max-width: 200px;
+  min-width: 200px;
+  min-height: 50px;
+  max-height: 50px;
+  align-self: center;
+}
+
+.navbar-toggler {
+  width: 100%;
+  background-color:aqua;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
